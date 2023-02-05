@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jishu096
+- 👋 Hi, I’m Jishu
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Vssut Burla in branch of IT
 - 💞️ I’m looking to collaborate on 
